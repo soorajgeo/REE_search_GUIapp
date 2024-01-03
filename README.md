@@ -20,12 +20,9 @@ The application uses simple vector algebra method known as cosine similarity (ht
 - numpy and pandas for data wrangling
 
 
-
-
-[Documentation](https://linktodocumentation)
-
-
 ## Demo
+![ree-gui](https://github.com/soorajgeo/REE_search_GUIapp/assets/51475605/b27d6e0c-8061-40a5-a023-7361400782dc)
+
 
 
 
