@@ -33,6 +33,10 @@ Clone the project
 ```bash
   git clone https://github.com/soorajgeo/REE_search_GUIapp.git
 ```
+Create virtual environment and activate
+```bash
+  python -m venv /path/to/new/virtual/environment
+```
 
 Go to the project directory
 
@@ -40,7 +44,7 @@ Go to the project directory
   cd REE_search_GUIapp
 ```
 
-Install dependencies
+Install dependencies in your virtual environment
 
 ```bash
   pip install -r requirements.txt
